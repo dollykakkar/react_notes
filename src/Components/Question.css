@@ -1,0 +1,27 @@
+.ques{
+    position: absolute;
+    left:100px;
+    top:90px;
+    width: 80%;
+    border-radius:30px 30px;
+    border-right:2px solid #C8F560;
+    z-index: 0;
+    border-left:2px solid #C8F560;
+}
+h2{
+    color:#C8F860;
+    text-decoration: underline;
+    margin-bottom: 30px;
+}
+.ques h5{
+    color: #C8F560;
+    /* margin-left: -400px; */
+}
+.ques h5:hover{
+    color: #7862F8;
+}
+.ques p{
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+}

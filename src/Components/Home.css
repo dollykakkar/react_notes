@@ -1,0 +1,24 @@
+.main{
+    width: 100%;
+    height:370px;
+    position: absolute;
+    top: 100px;
+    color: white;
+}
+.main i{
+    font-size: 150px;
+    color:#087EA4;
+    font-weight: bold;
+    margin-top: 40px;
+}
+.main p{
+    font-size: 60px;
+    color:white;
+    font-weight: bold;
+    margin-top: -5px;
+}
+.main .p1{
+    font-size: 27px;
+    color:white;
+    font-weight: bold;
+}
